@@ -1,0 +1,26 @@
+ADD YOUR CUSTOM CSS TO THIS FILE */
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fe68b4;
+    background-color: #cdbacc;}
+
+    .nav-link {color: #77a08f;} 
+
+    .nav-link:hover {
+    color: whitesmoke;} 
+
+    header {
+  background-color:#33160C;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+        }
+
+      h1{font-family:'Noto Serif', serif;
+        color: #33160C}
+
+        h2 {font-family:'Noto Serif', serif;
+        color: #33160C;
+        font-size: 95%;
+        
